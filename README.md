@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-## Whoami
+## About me
 <p>
   I've Taking part in Le Wagon Lille Web Development and Data Science Bootcamps in 2021, now im ready to found a fullstack developper job.
   <br/>
